@@ -559,10 +559,14 @@ margin: 0 auto;
     line-height: 1.4;
   }
 
-  .hero-buttons .btn {
+  .hero-buttons .btn{
     width: 100%;
-    font-size: 14px;
-    padding: 0.8rem 1rem;
+    font-size: 16px;
+    
+  }
+  .btn-primary {
+    width: 111%;
+    
   }
 
   .Features-badge {
