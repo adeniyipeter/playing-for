@@ -205,6 +205,11 @@ color:var(--primary-light);
     position: relative;
     border-radius: 16px;
     background-blend-mode: multiply;
+    width: 1560px;
+height: 825px;
+margin: 100px auto;
+
+
   }
   
   .hero-content {
