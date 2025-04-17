@@ -417,7 +417,12 @@ border-radius: 16px;
     padding-left: 30px;
     padding-right: 30px;
   }
-
+.hero{
+    min-height: 70vh;
+    padding: 1rem;
+    margin: 0px;
+    width: 100%;
+  }
   .hero-content {
     flex-direction: column;
     text-align: center;
@@ -441,6 +446,7 @@ border-radius: 16px;
   .Features1-image, .Features2-image {
     width: 100%;
     height: 400px;
+    text-align: center;
   }
 
   .Features1-image img, .Features2-image img {
@@ -467,6 +473,7 @@ border-radius: 16px;
   .hero {
     min-height: 60vh;
     padding: 1rem;
+    margin: 0px;
   }
 
   .hero-text h1 {
@@ -492,10 +499,12 @@ border-radius: 16px;
     width: 350px;
 height: 373.3333435058594px;
 border-radius: 9.33px;
+margin: 0 auto;
 
   }
   .Features1-image, .Features2-image {
     height: 300px;
+    margin: 0 auto;
   }
 
   .features-container h1 {
@@ -540,9 +549,11 @@ border-radius: 9.33px;
   }
 
   .hero {
-    min-height: 50vh;
-  }
+    width: 390px;
+    height: 825px;
+    margin: 0 auto;
 
+  }
   .hero-text h1 {
     font-size: 24px;
     line-height: 1.4;
