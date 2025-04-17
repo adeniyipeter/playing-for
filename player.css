@@ -566,7 +566,7 @@ margin: 0 auto;
   }
   .btn-primary {
     width: 111%;
-    
+    margin-left: -28px
   }
 
   .Features-badge {
